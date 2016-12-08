@@ -1,0 +1,17 @@
+{
+  "name": "demo1",
+  "version": "0.0.0",
+  "description": "demo1",
+  "main": "app.js",
+  "author": {
+    "name": "fs",
+    "email": "aaa@bbb.hu"
+  },
+  "dependencies": {
+    "ejs": "^2.5.3",
+    "express": "3.4.4",
+    "jade": "*",
+    "serve-favicon": "^2.3.2",
+    "stylus": "*"
+  }
+}
