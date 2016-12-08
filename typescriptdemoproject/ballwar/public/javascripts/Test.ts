@@ -3,3 +3,5 @@
 }
 
 writeLogText('Hello...');
+
+writeLogText('Ez egy node kliens oldali kiírás.');
