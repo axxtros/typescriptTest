@@ -1,1 +1,3 @@
 C:\dev\html5_game_dev\visual studio\typescriptNodeTest\typescriptTest\typescriptdemoproject\ballwar\bin\Microsoft.NodejsTools.WebRole.dll
+C:\dev\html5_game_dev\visual studio\typescriptTest\typescriptdemoproject\ballwar\obj\Debug\ballwar.njsprojResolveAssemblyReference.cache
+C:\dev\html5_game_dev\visual studio\typescriptTest\typescriptdemoproject\ballwar\bin\Microsoft.NodejsTools.WebRole.dll
